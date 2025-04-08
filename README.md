@@ -1,4 +1,4 @@
-# 🧠 EarlyMed: Advanced Alzheimer's Detection System
+# 🧠Memoraid: EarlyMed Advanced Alzheimer's Detection System
 
 Welcome to **EarlyMed**, a powerful and user-friendly tool designed to detect the early stages of **Alzheimer’s disease** from brain MRI scans using **deep learning**. Built with TensorFlow and Gradio, this project aims to assist both researchers and the general public in gaining insights into brain health through an AI-powered diagnosis interface.
 
