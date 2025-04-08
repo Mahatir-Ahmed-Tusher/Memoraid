@@ -115,7 +115,3 @@ _Mission: Early Detection, Smarter Decision._
 
 If you'd like to collaborate, improve the model, or deploy this to a medical center's early diagnostic suite — feel free to reach out via [email](mailto:mahatirtusher@gmail.com) or fork the repo and contribute!
 
----
-
-Let me know if you'd like a version of this in Bengali too or want a license added (like MIT or Apache 2.0)!
-
